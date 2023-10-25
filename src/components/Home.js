@@ -70,7 +70,7 @@ const Home = () => {
                   })}
                 </div>
                 <div class="card-footer text-body-secondary">
-                  <b>Added :</b> {item.createdAt.split("T")[0]}
+                  <b>Added hello :</b> {item.createdAt.split("T")[0]}
                 </div>
               </div>
             );
